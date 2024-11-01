@@ -19,11 +19,16 @@ CSS for styling and layout
 
 🧩 **Features**
 Smooth Gameplay: Simple, responsive controls with arrow keys
+
 Score Counter: See how high you can score before **game over**
+
 Game Over Alerts: Quick notification for easy restart
+
 Responsive Layout: Works well on desktop and mobile
 
 🚀 **Project Highlights**
 Pure JavaScript: No libraries, just classic Vanilla JS
+
 Lightweight: Minimal code for easy understanding and quick load times
+
 Retro Fun: Brings the nostalgia of Snake to the web!
