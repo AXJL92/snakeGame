@@ -10,7 +10,7 @@ Use the Arrow Keys to control the snake:
 🡅 Up
 🡇 Down
 Eat the food to grow longer and increase your score.
-Avoid crashing into walls or yourself. Game Over if you do!
+Avoid crashing into walls or yourself. Game Over if you do! :)
 
 🧰 **Designed With** 🧰
 JavaScript for game mechanics and logic
